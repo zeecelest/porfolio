@@ -1,3 +1,7 @@
+import React, { Component } from 'react';
+import ReactDom from 'react-dom';
+
+
 //this function moves user to section of page per link clicked
 const aboutZee = function (obj) {
   console.log(aboutZee);
